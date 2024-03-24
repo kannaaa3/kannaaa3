@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/807259969014988830/1001406878061953055/githubblossom.jpg" />
-</p>
+## 💐 Few things about me
 
-<p style="text-align:center"></p>
-<p align="center">
-  You do visit there, for real !?
-</p>
+- I'm interested in Binary Exploitation.
+- I love ricing (including linux, nvim, tmux and WM stuffs).
+- Fumo, and theory of everything.
